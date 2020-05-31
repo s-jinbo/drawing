@@ -1,0 +1,7 @@
+#### Redis
+
+- 在后台运行 
+
+  redis-server --daemonize yes
+
+
